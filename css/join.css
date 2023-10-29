@@ -2,7 +2,7 @@ body
 {
     width: 1280;
     height: auto;
-    margin: 0 auto;
+    margin-left:20px;
     display: flex;
     flex-direction:column;
     

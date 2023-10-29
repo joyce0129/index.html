@@ -33,14 +33,12 @@ body
 
 .login_right_box
 {
-    width: 640px;
+    width: 590px;
     height: 832px;
-    margin: 50px;
-    margin-top: 100px;
+    margin: 0px 0px 0px 50px;
+    
     flex-shrink: 0;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
+    
 }
 
 .rectangle

@@ -1,5 +1,11 @@
 
 
+html{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
 body
 {
     width: 1280px;
@@ -11,11 +17,11 @@ body
 {
     width: 1280px;
     height: auto;
+    margin-top: 90px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    
 }
 
 .login_img_01

@@ -14,7 +14,7 @@ body
     height: 480px;
     display: flex;
     flex-direction: row;
-    gap: 40px;
+    justify-content: space-between;
 }
 
 .join_img_02
@@ -30,7 +30,7 @@ body
     flex-direction:column;
     background-color:#F5EEE1;
     margin-top: 20px;
-    margin-left: 40px;
+    
     margin-bottom: 0px;
 
 }
@@ -102,7 +102,7 @@ body
     height: 171px;
     display: flex;
     flex-direction: column;
-    margin-top: 28px;
+   
     margin-right: 35px;
 }
 
